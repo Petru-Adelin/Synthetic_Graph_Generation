@@ -1,0 +1,9 @@
+		Useful links to inspect:
+	
+1) https://www.inria.fr/en/library-synthetic-knowledge-graphs-semantic-web
+
+	~ Erdos-Remyi ~
+
+2) https://www.geeksforgeeks.org/erdos-renyl-model-generating-random-graphs/
+
+

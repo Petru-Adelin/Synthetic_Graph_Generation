@@ -1,0 +1,16 @@
+From the paper provided by the teacher:
+
+!!!! Random graph generator that creates a G with small-world properties;
+!! Look up what small-world properties are !!
+
+small-world properties are 2:   1) average path length
+				2) high clusering coefficients
+
+
+the underlying structure: 
+
+	*) A lattice structure -> produce a locally clustered network 
+	*) random links on this structure produces
+
+
+
