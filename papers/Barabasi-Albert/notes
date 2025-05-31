@@ -1,0 +1,12 @@
+Resources for the model:
+GEEKS FOR GEEKS: https://www.geeksforgeeks.org/barabasi-albert-graph-scale-free-models/
+
+
+for the libraries that can be used to try things in python we have:
+1) Networkx 
+
+!! What is important to keep in mind is that the Model generates Random Scale-Free Graphs 
+
+
+A very good resource, that may deem useful in the future for all the research is:
+https://networksciencebook.com/chapter/5#origins
