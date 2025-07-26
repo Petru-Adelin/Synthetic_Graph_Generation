@@ -7,3 +7,5 @@
 2) https://www.geeksforgeeks.org/erdos-renyl-model-generating-random-graphs/
 
 
+ 	- Barabasi Lab for resources -
+3)https://barabasi.com/science/publications

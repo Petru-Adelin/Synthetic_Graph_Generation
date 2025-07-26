@@ -13,4 +13,18 @@ the underlying structure:
 	*) random links on this structure produces
 
 
+Small-World properties resources:
+1)Clustering Coeff:  https://www.geeksforgeeks.org/clustering-coefficient-graph-theory/
+!!!! Clustering Coeff as mentioned in the article for the local computation must be seen as:
+piG(v) = 1 when the neoghbours are connected to each other 
+piG(v) = 0 when no neighbour is connected to another 
+
+Thus piG(v) measures the number of edges that connect the neighbours of the v
+
+
+!!!! When refering to the triplets in a triangle we must see that:
+1) triplets can be centered around a node - from which 2 edges are drawn to
+2) there are opened and closed triplets
+
+!!!! In a triangle we have 3 possible centers for our triplets, thus 3 triplets are considered to belong to the triangle
 
